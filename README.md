@@ -17,7 +17,7 @@
 ## 🛠 Εργαλεία & Δεξιότητες
 * **Virtual Collaboration:** Cisco Webex, Zoom, eclass, Moodle
 * **Hardware Integration:** Setup και διαχείριση συστημάτων Meeting Owl & AV εξοπλισμού αιθουσών.
-* **Research & Documentation:** GitHub for Academics, Markdown, Zotero,
+* **Research & Documentation:** GitHub, Markdown, Zotero,
 
 ---
 
