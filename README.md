@@ -32,5 +32,8 @@
 ## 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebMits&show_icons=true&theme=noble&count_private=true)
 
+
+[![Calendar](https://img.shields.io/badge/Google_Calendar-Combined_View-blue?style=for-the-badge&logo=googlecalendar)](https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&ctz=Europe/Athens&showPrint=0&showTabs=0&mode=MONTH&src=cy50Lm1pdHNpb3NAZ21haWwuY29t&src=OGY2NDY3MTY4MTlhOTQxZGI1NGYyNzlkMWVhMDhmYTQ1ODdjMTkzNmEyNDVmYWZmODA1N2JmNWY0NDgzZTkzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23f4511e&color=%23009688)
+
 ---
 *Αυτό το προφίλ λειτουργεί ως ακαδημαϊκός κόμβος για την οργάνωση και παρουσίαση της ερευνητικής μου δραστηριότητας.*
