@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
+  <diagram name="Σελίδα-1" id="JqF6AMS3Oh7uJ7kHqctj">
+    <mxGraphModel dx="2852" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dudif4poqC6-0oes3tyl-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="LAPTOP:&#xa;&#xa; MSI CYBORG 15 A13VE" vertex="1">
+          <mxGeometry height="78" width="218" x="40" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Meeting Owl 4+" vertex="1">
+          <mxGeometry height="54" width="170" x="417" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Μικρόφωνα:&#xa;&#xa; Rode Wireless PRO" vertex="1">
+          <mxGeometry height="78" width="193" x="174" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Ηχεία:&#xa;&#xa; Logitech 2.1" vertex="1">
+          <mxGeometry height="78" width="149" x="20" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Πολύμπριζο" vertex="1">
+          <mxGeometry height="54" width="144" x="77" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Δικτυο" vertex="1">
+          <mxGeometry height="54" width="107" x="95" y="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Κονσόλα Αίθουσας" vertex="1">
+          <mxGeometry height="54" width="192" x="118" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Βοηθητικό Μικρόφωνο M.O" vertex="1">
+          <mxGeometry height="54" width="253" x="456" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Ηχεία Αίθουσας" vertex="1">
+          <mxGeometry height="54" width="171" x="129" y="899" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-35" parent="1" style="shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=20;strokeWidth=2;whiteSpace=wrap;spacingLeft=10" value="Ακούμε τους φοιτητές από τα ηχεία του Μ.Ο" vertex="1">
+          <mxGeometry height="63" width="231" x="252" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-36" parent="1" style="shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=20;strokeWidth=2;whiteSpace=wrap;spacingLeft=10" value="ΟΙ ΕΞΑΠ ακουν απο τα μικρόφωνα του M.Owl το οποίο πιάνει ήχο από τα PA" vertex="1">
+          <mxGeometry height="87" width="237" x="533" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-37" parent="1" style="shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=20;strokeWidth=2;whiteSpace=wrap;spacingLeft=10" value="Δυστυχώς δεν ακουν οι ΕΞΑΠ αν οι ΔΖ δεν έχουν κοντά τους μικρόφωνο ή είναι κοντά στο Μ.Ο" vertex="1">
+          <mxGeometry height="111" width="243" x="820" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-38" parent="1" style="shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=20;strokeWidth=2;whiteSpace=wrap;spacingLeft=10" value="H MO δεν εστιάζει σωστά στους μακρινούς φοιτητές" vertex="1">
+          <mxGeometry height="63" width="231" x="1113" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-39" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-30" style="curved=1;startArrow=none;endArrow=none;exitX=0.66;exitY=0;entryX=0.63;entryY=1;rounded=0;" target="Dudif4poqC6-0oes3tyl-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="502" />
+              <mxPoint x="204" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-40" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-30" style="curved=1;startArrow=none;endArrow=none;exitX=0.46;exitY=1;entryX=0.34;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="139" y="618" />
+              <mxPoint x="139" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-41" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-30" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.9;entryX=0.05;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-42" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-31" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-26" value="LAN CABLE">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-43" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-29" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.34;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-30" value="Type c to USB">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="94" y="502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-44" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-26" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.95;entryX=0.21;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-27" value="Type-C">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="350" />
+              <mxPoint x="384" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-45" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-33" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-46" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-28" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-32" value="Jack 3.5mm to RCA">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-47" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-26" style="curved=1;startArrow=none;endArrow=none;exitX=0.37;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-29" value="splitter">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="94" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-48" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-27" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=1;entryY=0.1;rounded=0;" target="Dudif4poqC6-0oes3tyl-32" value="microphone">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dudif4poqC6-0oes3tyl-49" edge="1" parent="1" source="Dudif4poqC6-0oes3tyl-32" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="Dudif4poqC6-0oes3tyl-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
