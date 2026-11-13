@@ -1,0 +1,3 @@
+   remote_theme: just-the-docs/just-the-docs
+   title: Κοινωνική Παιδαγωγική στην Υβριδική Πανεπιστημιακή Τάξη.
+   lang: el
