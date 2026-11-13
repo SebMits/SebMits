@@ -7,7 +7,7 @@ nav_order: 4
 
 Αν έχετε συμπληρώσει τη [φόρμα συναίνεσης](consent), μπορείτε να επιλέξετε μέρα και ώρα για τη συνέντευξη.
 
-<a href="(https://calendar.app.google/H4y1JxLbpwnmYmvy5)" class="btn btn-primary">Επιλογή ημέρας και ώρας</a>
+<a href="https://calendar.app.google/H4y1JxLbpwnmYmvy5" class="btn btn-primary">Επιλογή ημέρας και ώρας</a>
 
 ## Πώς λειτουργεί
 
